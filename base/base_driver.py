@@ -2,7 +2,6 @@
 
 from appium import webdriver
 
-
 def inin_driver():
 
     desired_caps = {}
